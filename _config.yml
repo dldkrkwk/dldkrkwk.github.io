@@ -106,7 +106,8 @@ analytics:
 author:
   name             : "이소정"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I will do whatever i want. *HOW'S IT GOING TO END*"
+  bio              : "I will do whatever i want. 
+  **HOW'S IT GOING TO END**"
   location         : "서울 강남구"
   email            : dldkrkwk@naver.com
   links:
