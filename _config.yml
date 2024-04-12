@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "데이터 분석가 신입_소정이의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "이소정"
 description              : "An amazing website."
 url                      : "https://dldkrkwk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이소정"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I will do whatever i want. *HOW'S IT GOING TO END*"
+  location         : "서울 강남구"
+  email            : dldkrkwk@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
